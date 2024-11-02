@@ -8,3 +8,4 @@
 - Filling the Histogram of oriented gradient (HOG ) bins.
 - Sliding window detection.
 - Nonmaximum impression calculation.
+# check
