@@ -7,5 +7,5 @@
 - Computing image gradients.
 - Filling the Histogram of oriented gradient (HOG ) bins.
 - Sliding window detection.
-- Nonmaximum impression calculation.
+- Nonmaximum supression calculation.
 # check
